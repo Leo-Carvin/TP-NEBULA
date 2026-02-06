@@ -31,7 +31,6 @@ Le projet simule un contexte où **NeoGrid gère 40 % du réseau électrique urb
 ### Backend
 - Node.js
 - NestJS
-- API REST
 
 ### Données
 - PostgreSQL (SQL)
